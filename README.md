@@ -17,4 +17,4 @@ Puedes acceder a la versión en línea desplegada en GitHub Pages a través del 
 * `img/` - Carpeta con las imágenes de los productos y flores.
 
 ## Autor
-* **Tu Nombre** - *Desarrollo de la práctica de GitHub*
+* **Alex De Haro** - *Desarrollo de la práctica de GitHub*
